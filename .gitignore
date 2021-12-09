@@ -1,0 +1,6 @@
+.DS_Store
+
+*.txt (all text extension will be ignored)
+# to comment
+
+# poo is nice
